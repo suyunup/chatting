@@ -3,10 +3,11 @@
 
 ## How to run
 final_receiver.py를 실행후 final_sender.py를 실행
+
 실행시 입력 데이터 없음
 
-Code Block 의 구조및 기능
-#####final_sender.py#####
+### Code Block 의 구조및 기능
+## final_sender.py
 Application
 
 scenario1: 1111000011110000의 데이터를 전송
@@ -46,7 +47,7 @@ binTohex
 도착한 ACK 이진 문자열을 십진수로 변환하는 함수
 
 
-#####final_receiver.py#####
+## final_receiver.py
 
 physical
 
